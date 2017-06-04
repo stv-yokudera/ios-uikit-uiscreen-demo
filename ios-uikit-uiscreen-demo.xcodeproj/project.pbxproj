@@ -196,6 +196,7 @@
 				TargetAttributes = {
 					BCC3F5591E5D12EF00BC1B62 = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = PCCZJUYRT6;
 						ProvisioningStyle = Automatic;
 					};
 					BCC3F56D1E5D12EF00BC1B62 = {
@@ -414,6 +415,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = PCCZJUYRT6;
 				INFOPLIST_FILE = "ios-uikit-uiscreen-demo/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "jp.st-ventures.ios-uikit-uiscreen-demo";
@@ -426,6 +428,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = PCCZJUYRT6;
 				INFOPLIST_FILE = "ios-uikit-uiscreen-demo/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "jp.st-ventures.ios-uikit-uiscreen-demo";
@@ -507,6 +510,7 @@
 				BCC3F5841E5D12EF00BC1B62 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		BCC3F5851E5D12EF00BC1B62 /* Build configuration list for PBXNativeTarget "ios-uikit-uiscreen-demoTests" */ = {
 			isa = XCConfigurationList;
@@ -515,6 +519,7 @@
 				BCC3F5871E5D12EF00BC1B62 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		BCC3F5881E5D12EF00BC1B62 /* Build configuration list for PBXNativeTarget "ios-uikit-uiscreen-demoUITests" */ = {
 			isa = XCConfigurationList;
@@ -523,6 +528,7 @@
 				BCC3F58A1E5D12EF00BC1B62 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
